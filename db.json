@@ -19,7 +19,7 @@
       "approved": true,
       "waitForApprove": false,
       "disabledApprove": false,
-      "images": [],
+      "images": ["https://cdnn21.img.ria.ru/images/07e6/08/1a/1812373086_816:0:3250:1730_640x0_80_0_0_d8cc2b41a408909c03cea520c9a06a0e.jpg.webp","https://cdnn21.img.ria.ru/images/07e6/08/1a/1812373086_816:0:3250:1730_640x0_80_0_0_d8cc2b41a408909c03cea520c9a06a0e.jpg.webp", "https://cdnn21.img.ria.ru/images/07e6/08/1a/1812373086_816:0:3250:1730_640x0_80_0_0_d8cc2b41a408909c03cea520c9a06a0e.jpg.webp"],
       "rating": 5
       "location": {
           "lat": 56.464098,
@@ -35,7 +35,7 @@
       "approved": false,
       "waitForApprove": true,
       "disabledApprove": false,
-      "images": [],
+      "images": ["https://cdnn21.img.ria.ru/images/07e6/08/1a/1812373086_816:0:3250:1730_640x0_80_0_0_d8cc2b41a408909c03cea520c9a06a0e.jpg.webp","https://cdnn21.img.ria.ru/images/07e6/08/1a/1812373086_816:0:3250:1730_640x0_80_0_0_d8cc2b41a408909c03cea520c9a06a0e.jpg.webp", "https://cdnn21.img.ria.ru/images/07e6/08/1a/1812373086_816:0:3250:1730_640x0_80_0_0_d8cc2b41a408909c03cea520c9a06a0e.jpg.webp"],
       "rating": 1
       "location": {
           "lat": 56.461387,
@@ -51,7 +51,7 @@
       "approved": true,
       "waitForApprove": false,
       "disabledApprove": false,
-      "images": [],
+      "images": ["https://cdnn21.img.ria.ru/images/07e6/08/1a/1812373086_816:0:3250:1730_640x0_80_0_0_d8cc2b41a408909c03cea520c9a06a0e.jpg.webp","https://cdnn21.img.ria.ru/images/07e6/08/1a/1812373086_816:0:3250:1730_640x0_80_0_0_d8cc2b41a408909c03cea520c9a06a0e.jpg.webp", "https://cdnn21.img.ria.ru/images/07e6/08/1a/1812373086_816:0:3250:1730_640x0_80_0_0_d8cc2b41a408909c03cea520c9a06a0e.jpg.webp"],
       "rating": 4
       "location": {
           "lat": 56.468944,
