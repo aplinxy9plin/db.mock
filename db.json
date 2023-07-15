@@ -8,5 +8,55 @@
     "phone": "89991234567",
     "email": "mail@example.com",
     "role": "chief"
-  }
+  },
+  "companies": [
+    {
+      "id": "4df8b46d-b22b-4123-8b32-84f97f6e3b8a",
+      "name": "Grand Road Volgograd",
+      "companyType": "Строительство дорог",
+      "country": "Россия",
+      "city": "Томск",
+      "approved": true,
+      "waitForApprove": false,
+      "disabledApprove": false,
+      "images": [],
+      "rating": 5
+      "location": {
+          "lat": 56.464098,
+          "lng": 84.954167
+      }
+    },
+    {
+      "id": "b92fcaf6-f16c-4586-8096-9979b8c81529",
+      "name": "Test Tomsk Company",
+      "companyType": "Строительство дорог",
+      "country": "Россия",
+      "city": "Томск",
+      "approved": false,
+      "waitForApprove": true,
+      "disabledApprove": false,
+      "images": [],
+      "rating": 1
+      "location": {
+          "lat": 56.461387,
+          "lng": 84.958181
+      }
+    },
+    {
+      "id": "dcc7a28a-910a-4a4c-9bfa-edaa07d81ef1",
+      "name": "Какая-то компания",
+      "companyType": "Производство лампочек",
+      "country": "Россия",
+      "city": "Томск",
+      "approved": true,
+      "waitForApprove": false,
+      "disabledApprove": false,
+      "images": [],
+      "rating": 4
+      "location": {
+          "lat": 56.468944,
+          "lng": 84.952680
+      }
+    }
+  ]
 }
